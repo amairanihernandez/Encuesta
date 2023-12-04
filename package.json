@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "firebase": "^10.7.0"
-  }
+  },
+    "scripts": {
+      "start": "node index.html"
+    }
+  
 }
+
+
+
